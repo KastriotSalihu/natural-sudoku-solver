@@ -34,13 +34,13 @@ A very simple previewer is available at:
 ```
 index.html
 ```
-Simply copy the result from the solver(or any sudoku with that format).
-Then open the console.
-And run 
+Simply copy the result from the solver (or any sudoku with that format),
+then open your browsers console.
+
+Run:
 ```
 populateTable(sudoku)
 ```
-
 
 ## Sudoku Terms:
 ---
